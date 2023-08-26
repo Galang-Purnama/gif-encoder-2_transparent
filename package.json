@@ -1,0 +1,21 @@
+{
+  "name": "gif-encoder-2",
+  "version": "1.0.5",
+  "description": "GIF generator for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Galang-Purnama/gif-encoder-2_transparent.git"
+  },
+  "keywords": [
+    "gif",
+    "encoder",
+    "image",
+    "node"
+  ],
+  "author": "Galang Purnama",
+  "license": "UNLICENSE",
+  "devDependencies": {
+    "canvas": "2.5.0"
+  }
+}
